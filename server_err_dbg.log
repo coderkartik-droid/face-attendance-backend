@@ -1,0 +1,22 @@
+C:\Users\hari1\FACE_ATTENDANCE\venv\Lib\site-packages\django\core\handlers\base.py:61: UserWarning: No directory at: C:\Users\hari1\FACE_ATTENDANCE\backend\staticfiles\
+  mw_instance = middleware(adapted_handler)
+[2026-09-01 09:04:15] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:04:15] INFO [django.server:213] code 400, message Bad request syntax ('\x16\x03\x01\x01\x9d\x01\x00\x01\x99\x03\x03ÒëÊ\x84\x82\x03Ø')
+[2026-09-01 09:04:15] ERROR [django.server:193] You're accessing the development server over HTTPS, but it only supports HTTP.
+[2026-09-01 09:04:15] INFO [django.server:213] code 400, message Bad request syntax ('\x16\x03\x01\x01\x9d\x01\x00\x01\x99\x03\x03;\\n')
+[2026-09-01 09:04:15] ERROR [django.server:193] You're accessing the development server over HTTPS, but it only supports HTTP.
+[2026-09-01 09:04:15] INFO [django.server:213] "POST /api/auth/register/student/ HTTP/1.1" 301 0
+[2026-09-01 09:04:15] INFO [django.server:213] code 400, message Bad request version ('¡°ßsy8æö\x8eÇ,\x8ds/ùèÓ\x97+¬\x18q"ãb\x1bDìAÒ\x90\x17\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À\'À')
+[2026-09-01 09:04:15] ERROR [django.server:193] You're accessing the development server over HTTPS, but it only supports HTTP.
+[2026-09-01 09:04:15] INFO [django.server:213] code 400, message Bad request version ("¬3À÷\x8c\x15½çO\x04OÎ\x8a?kÚ*Í¸\\\x84càs\x98¢\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À")
+[2026-09-01 09:04:15] ERROR [django.server:193] You're accessing the development server over HTTPS, but it only supports HTTP.
+[2026-09-01 09:04:55] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:05:44] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:16:45] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:16:50] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:16:56] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:17:03] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:17:07] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:17:07] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:17:07] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
+[2026-09-01 09:17:08] INFO [django.server:213] "POST /api/auth/login/ HTTP/1.1" 301 0
